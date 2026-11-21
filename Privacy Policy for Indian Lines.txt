@@ -1,0 +1,57 @@
+Privacy Policy for Indian Lines
+Last updated: 21 November 2026
+
+Indian Lines ("we", "our", "us") respects your privacy. This Privacy Policy explains what information we collect when you use the Indian Lines app, how we use it, and your choices.
+
+1. Information We Collect
+a) Location Information: With your permission, we collect your approximate location to show queue and crowd status of places near you. You can turn off location permission from your device settings, but nearby results may not work properly.
+
+b) Information You Provide: If you report crowd / queue status, create a place, or contact us, we may collect the information you provide, such as the place name, crowd level, and your message.
+
+c) Device & Usage Information: We may collect basic device information such as device model, operating system version, app version, and crash logs to fix bugs and improve the app.
+
+d) Account Information: If you sign in, we may collect your email address or phone number only to create and secure your account.
+
+2. How We Use Information
+To show nearby places, live queue and crowd status
+To improve app performance, fix bugs and add new features
+To respond to your feedback and support requests
+To keep the app safe and prevent misuse
+3. What We Do NOT Do
+We do not sell your personal data to anyone. We do not share your exact live location publicly. Crowd reports are shown in aggregate form, without identifying you.
+
+4. Third-Party Services
+Indian Lines may use trusted third-party services that help us run the app, such as:
+
+Supabase - for database and backend
+Firebase / Google - for push notifications, analytics and crash reporting
+Google Play Services - for maps and location
+- Shorebird - for over-the-air app updates
+These services have their own privacy policies and may collect information as described in their policies.
+
+5. Permissions We Use
+Location: To find nearby places and show queue status
+Internet: To load live data
+Notifications: To send you useful updates, only if you allow
+6. Data Security
+We use reasonable security measures to protect your information. However, no method of transmission over the internet is 100% secure.
+In the event of a data breach despite our security measures, we will take reasonable steps to inform affected users and fix the issue as soon as possible. We will not be liable for any loss caused by unauthorized access that occurs despite reasonable security measures.
+
+7. Children's Privacy
+Indian Lines is for general audiences. We do not knowingly collect personal information from children under 13 without parental consent. If you believe a child has provided personal information, contact us and we will delete it.
+
+8. Your Choices
+You can turn off location and notification permissions from your device settings at any time. You can request deletion of your account/data by contacting us.
+
+9. Changes To This Policy
+We may update this policy from time to time. The updated version will be posted on this page with a new "Last updated" date.
+
+10. Contact Us
+
+Crowd and queue information is provided by users, so it may not always be 100% accurate. Please verify at your own discretion.
+
+If you have any questions about this Privacy Policy, contact us at:
+Email: indianlines.support@gmail.com
+
+
+By using Indian Lines, you agree to this Privacy Policy.
